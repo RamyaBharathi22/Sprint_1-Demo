@@ -1,5 +1,5 @@
 # Sprint_1-DemoWebshop
-##RaghavKhanna/n
+##RaghavKhanna
 ##Rakkesh
 ##Ramya G
 ##Ramyabharathi Thupakula
